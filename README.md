@@ -5,8 +5,8 @@ File search through Launcher ```chrome://flags/#enable-drive-search-in-app-launc
   
 ### Chrome Extensions Installed
 [Nimbus - Screenshot Utility](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj/related?hl=en)  
-[uBlock Origin - Ad blocker]  
-[1PasswordX - Password Manager]  
-[Reddit Enhancement Suite]  
+[uBlock Origin - Ad blocker](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)  
+[1Password X - Password Manager](https://chrome.google.com/webstore/detail/1password-x-%E2%80%93-password-ma/aeblfdkhhhdcdjpifhhbdiojplfjncoa?hl=en)  
+[Reddit Enhancement Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb?hl=en)  
   
 ### Crostini Setup and Configuration
