@@ -10,3 +10,9 @@ File search through Launcher ```chrome://flags/#enable-drive-search-in-app-launc
 [Reddit Enhancement Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb?hl=en)  
   
 ### Crostini Setup and Configuration
+Enable Linux support in Settings
+
+### Crostini App Installation
+#### VS Code
+curl -L "https://go.microsoft.com/fwlink/?LinkID=760868" > vscode.deb
+sudo apt install ./vscode.deb
