@@ -14,5 +14,7 @@ Enable Linux support in Settings
 
 ### Crostini App Installation
 #### VS Code
-```curl -L "https://go.microsoft.com/fwlink/?LinkID=760868" > vscode.deb
-sudo apt install ./vscode.deb```
+```
+curl -L "https://go.microsoft.com/fwlink/?LinkID=760868" > vscode.deb
+sudo apt install ./vscode.deb
+```
