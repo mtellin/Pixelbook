@@ -18,3 +18,6 @@ Enable Linux support in Settings
 curl -L "https://go.microsoft.com/fwlink/?LinkID=760868" > vscode.deb
 sudo apt install ./vscode.deb
 ```
+### Python Environment
+```
+sudo apt-get install python3-pip
