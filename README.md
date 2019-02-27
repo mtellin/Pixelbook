@@ -18,6 +18,10 @@ Enable Linux support in Settings
 curl -L "https://go.microsoft.com/fwlink/?LinkID=760868" > vscode.deb
 sudo apt install ./vscode.deb
 ```
+Install Oh-My-Zsh, need to use patched files for prompt  
+In settings.json need to update font info for both editor and terminal  
+##### VS Code Extensions  
+chester atom
 ### Python Environment
 ```
 sudo apt-get install python3-pip
