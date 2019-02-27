@@ -21,7 +21,12 @@ sudo apt install ./vscode.deb
 Install Oh-My-Zsh, need to use patched files for prompt  
 In settings.json need to update font info for both editor and terminal  
 ##### VS Code Extensions  
-chester atom
+Bracket Pair Colorizer  
+indent-rainbow  
+Markdown All in One  
+Material Icon Theme  
+PowerShell  
+Python  
 ### Python Environment
 ```
 sudo apt-get install python3-pip
