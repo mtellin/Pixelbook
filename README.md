@@ -27,6 +27,9 @@ Markdown All in One
 Material Icon Theme  
 PowerShell  
 Python  
+Gist  
+VS Live Share  
+Settings Sync  
 ### Python Environment
 ```
 sudo apt-get install python3-pip
