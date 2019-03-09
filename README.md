@@ -20,6 +20,8 @@ sudo apt install ./vscode.deb
 ```
 Install Oh-My-Zsh, need to use patched files for prompt  
 In settings.json need to update font info for both editor and terminal  
+### Postman
+
 ##### VS Code Extensions  
 Bracket Pair Colorizer  
 indent-rainbow  
