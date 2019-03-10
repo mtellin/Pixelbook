@@ -2,6 +2,8 @@
 
 ### General Configuration
 File search through Launcher ```chrome://flags/#enable-drive-search-in-app-launcher```
+Use newer Bluetooth ```chrome://flags/#newblue```  
+This seems hit or miss, I still have an audio delay with both AirPods and QC35II  
   
 ### Chrome Extensions Installed
 [Nimbus - Screenshot Utility](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj/related?hl=en)  
