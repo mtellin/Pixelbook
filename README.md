@@ -32,6 +32,7 @@ Python
 Gist  
 VS Live Share  
 Settings Sync  
+Prettier  
 ### Python Environment
 ```
 sudo apt-get install python3-pip
