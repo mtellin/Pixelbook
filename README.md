@@ -40,6 +40,7 @@ Go .
 ### Python Environment
 ```
 sudo apt-get install python3-pip
+```
   
 ### Go Environment
 Download latest from golang.org  
