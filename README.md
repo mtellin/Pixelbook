@@ -36,6 +36,25 @@ Gist
 VS Live Share  
 Settings Sync  
 Prettier  
+Go . 
 ### Python Environment
 ```
 sudo apt-get install python3-pip
+  
+### Go Environment
+Download latest from golang.org  
+```
+sudo tar -C /usr/local -xzf go1.10.3.linux-amd64.tar.gz
+vi ~/.profile
+```
+And add the following at the end:  
+```
+# add golang to PATH
+if [ -d "/usr/local/go/bin" ] ; then
+        PATH="$PATH:/usr/local/go/bin"
+fi
+```
+Then to apply changes immediately:  
+```
+source ~/.profile
+```
