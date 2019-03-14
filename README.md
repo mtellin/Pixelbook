@@ -49,7 +49,6 @@ vi ~/.profile
 ```
 And add the following at the end:  
 ```
-# add golang to PATH
 if [ -d "/usr/local/go/bin" ] ; then
         PATH="$PATH:/usr/local/go/bin"
 fi
