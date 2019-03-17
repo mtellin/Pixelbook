@@ -23,6 +23,7 @@ sudo apt install ./vscode.deb
 Had issues getting VS Code to save GitHub username, easier to just clone repos via ssh (with key added to GitHub profile) vs https  
 Install Oh-My-Zsh, need to use patched files for prompt  
 In settings.json need to update font info for both editor and terminal  
+Set ```window.titleBarStyle``` to a value of custom in settings.json for a more integrated title bar look  
 ### Postman
 
 ##### VS Code Extensions  
