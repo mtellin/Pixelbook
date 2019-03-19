@@ -37,7 +37,8 @@ Gist
 VS Live Share  
 Settings Sync  
 Prettier  
-Go . 
+Go  
+JSON Helper  
 ### Python Environment
 ```
 sudo apt-get install python3-pip
