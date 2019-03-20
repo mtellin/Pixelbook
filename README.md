@@ -15,6 +15,7 @@ This seems hit or miss, I still have an audio delay with both AirPods and QC35II
 Enable Linux support in Settings
 In Terminal, run to properly set timezone: ```sudo dpkg-reconfigure tzdata```  
 Run this to be able to run add-apt-repository command ```sudo apt install software-properties-common```  
+Install Docker: https://hackernoon.com/pixelbook-revisited-running-docker-containers-aa7c742a7dec  
 ### Crostini App Installation
 #### VS Code
 ```
